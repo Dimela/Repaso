@@ -1,0 +1,17 @@
+COMANDOS PARA REACT EN LA TERMINAL: CREATE-REAT-APP Y VITE
+CREATE-REACT-APP
+-npm i create-react-app
+-npm fix crate-react-app SI NO FUNCIONA, CON EL SIGUIENTE COMANDO
+-npm fix --force
+-npm cache clean --force LIMPIAR CACHE
+-npx create-react-app miapp
+-npm create-react-app miapp
+-npm start
+
+VITE
+-npm init vite@latest mi-app-vite_LO QUE ESTA DESPUES DEL ANDERSCORD ES EL NOMBRE 
+DEL PROYECTO
+-cd mi-app-vite
+-npm install
+-npm run dev
+
